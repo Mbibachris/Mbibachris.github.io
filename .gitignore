@@ -1,0 +1,9 @@
+# Job-application-specific files kept locally only, not part of the public site
+Christopher_Mbiba_CV_UNDP.pdf
+Christopher_Mbiba_CoverLetter_UNDP.pdf
+Christopher_Mbiba_Resume_Full.docx
+Christopher_Mbiba_Resume_Full.pdf
+IMG_7807.JPG.jpeg
+
+# Local dev-server launch config, not needed for the deployed site
+.claude/
